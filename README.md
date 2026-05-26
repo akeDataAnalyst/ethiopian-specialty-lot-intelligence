@@ -50,16 +50,3 @@ A modern, interactive Lot Intelligence Dashboard that centralizes and analyzes E
 - Visualization: Plotly Express
 
 ---
-
-## Alignment with Volcafe Specialty Analyst Role
-
-This project directly demonstrates the skills required in the JD:
-
-- **Sourcing & Lot Management** → Lot Intelligence System
-- **Modern Coffee Lab Experience** → SCA Score analysis & quality tiers
-- **Supplier & Client Communication** → Professional reports and dashboards
-- **Responsible Sourcing** → Traceability and sustainability tracking
-- **Commercial Execution** → Pricing insights and top lot recommendations
-- **Data Management** → Clean architecture and automation-ready code
-
----
