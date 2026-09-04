@@ -2,51 +2,52 @@
 
 [![Live Demo](https://img.shields.io/badge/Streamlit-Live%20Demo-brightgreen)](https://ethiopian-specialty-lot-intelligence-zswaxkpivqtsda44wjy2bs.streamlit.app/)
 
-**A Professional Sourcing & Quality Intelligence Platform for Ethiopian Specialty Coffee**
+**A sourcing and quality analytics platform for Ethiopian specialty coffee**
 
 ---
 
 ## Project Description
 
-This project is a comprehensive Specialty Coffee Lot Intelligence System designed to support efficient sourcing, quality control, and commercial decision-making for Ethiopian specialty coffees.
+This project is a Specialty Coffee Lot Intelligence System designed to support coffee sourcing, quality analysis, and commercial decision-making for Ethiopian specialty coffees.
 
-The system helps bridge the gap between field-level suppliers (washing stations & cooperatives) and international buyers by providing real-time visibility, quality insights, and data-driven recommendations.
+The system brings together supplier, lot, quality, traceability, and sustainability data to help sourcing teams compare lots and identify potential opportunities more efficiently.
 
 ---
 
 ## Problem Statement
 
 In the Ethiopian coffee industry:
-- Lot information is often scattered across spreadsheets, emails, and WhatsApp messages.
-- Traceability and quality data (especially SCA scores, defects, and sustainability) are poorly centralized.
-- Sourcing teams struggle to quickly identify high-value specialty lots (80+ SCA) that meet ECX, ICO, and buyer standards.
-- Manual processes slow down decision-making on pricing, supplier selection, and client reporting.
+
+* Lot information can be scattered across spreadsheets, emails, and messaging platforms.
+* Traceability and quality data, including SCA scores, defects, and sustainability attributes, may be difficult to centralize.
+* Sourcing teams need efficient ways to identify higher-quality specialty lots and compare supplier and regional performance.
+* Manual data processing can slow decisions related to sourcing, pricing, and client reporting.
 
 ---
 
 ## Solution
 
-A modern, interactive Lot Intelligence Dashboard that centralizes and analyzes Ethiopian specialty coffee data using industry standards.
+An interactive Lot Intelligence Dashboard that centralizes and analyzes Ethiopian specialty coffee data.
 
 ### Key Features
 
-- Real-time Filtering & Search by region, processing method, SCA score, ECX grade, traceability.
-- Quality & Compliance Analysis (SCA CVA aligned, ECX defect rules, ICO moisture standards)
-- Regional Performance Insights (Yirgacheffe, Guji, Sidama)
-- Traceability & Sustainability Tracking (Verified, Organic, Rainforest Alliance)
-- Interactive Visualizations and professional reporting
-- Export Functionality (CSV & Excel) for client-ready reports
+* **Filtering & Search:** Explore lots by region, processing method, SCA score, ECX grade, and traceability status.
+* **Quality Analysis:** Analyze quality indicators such as SCA scores, defects, and moisture.
+* **Regional Insights:** Compare coffee lots across regions including Yirgacheffe, Guji, and Sidama.
+* **Traceability & Sustainability:** Track attributes such as verified, organic, and Rainforest Alliance status.
+* **Interactive Visualizations:** Explore quality, sourcing, and regional patterns through interactive charts.
+* **Export Functionality:** Export filtered results to CSV and Excel for reporting.
 
 ---
 
 ## Tech Stack
 
-- Language: Python 3.9+
-- Core Libraries: Pandas, NumPy, Plotly
-- Frontend/Dashboard: Streamlit
-- Data Modeling: Pydantic
-- Project Structure: Modular `src/` architecture
-- Data Formats: CSV, Pickle, Excel
-- Visualization: Plotly Express
+* **Language:** Python 3.9+
+* **Core Libraries:** Pandas, NumPy, Plotly
+* **Dashboard:** Streamlit
+* **Data Modeling:** Pydantic
+* **Project Structure:** Modular `src/` architecture
+* **Data Formats:** CSV, Pickle, Excel
+* **Visualization:** Plotly Express
 
 ---
